@@ -2,9 +2,10 @@
 A list of all my most interesting projects
 
 # MyNotes
-### Status
-ONLINE, get it on the Play Store
 2017-today
+### Status
+ONLINE, get it on the [Play Store](https://play.google.com/store/apps/details?id=com.masc_inc.mynotes&hl=en)
+
 ### Tech details
 - Written in Java
 - Lightweight
@@ -33,3 +34,5 @@ ONLINE
 - Backend: CodeIgniter 3 web framework
 ### Screens
 <img src="https://github.com/onipot/Projects/blob/master/SmartEnv/intro%201.png" width="250"><img src="https://github.com/onipot/Projects/blob/master/SmartEnv/miei%20terreni%20GRIGLIA.png" width="250">
+
+# More to come!
