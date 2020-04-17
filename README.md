@@ -24,7 +24,7 @@ OFFLINE, had to remove it from the store :'(
 ### Screens
 <img src="https://github.com/onipot/Projects/blob/master/AppFipav/Screenshot_20170524-194347.png" width="250"><img src="https://github.com/onipot/Projects/blob/master/AppFipav/Screenshot_20170524-194413.png" width="250">
 
-# SmartEnv
+# SmartEnv | Powered by SmartMonkeys
 2019-today
 ### Status
 ONLINE
