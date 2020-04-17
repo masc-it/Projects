@@ -9,4 +9,4 @@ ONLINE, get it on the Play Store
 - Lightweight
 - GDrive API
 ### Screens
-[first] (https://github.com/onipot/Projects/raw/master/MyNotes/backup_fin.png)
+![](https://github.com/onipot/Projects/raw/master/MyNotes/backup_fin.png | width=100)
