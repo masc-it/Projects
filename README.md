@@ -32,6 +32,7 @@ ONLINE
 ### Tech details
 - Frontend in Java
 - Backend: CodeIgniter 3 web framework
+- A lot of interesting integration here! :P
 ### Screens
 <img src="https://github.com/onipot/Projects/blob/master/SmartEnv/intro%201.png" width="250"><img src="https://github.com/onipot/Projects/blob/master/SmartEnv/miei%20terreni%20GRIGLIA.png" width="250">
 
