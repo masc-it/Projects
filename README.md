@@ -1,6 +1,6 @@
 # Projects
 A list of all my most interesting projects
-
+For more info contact me at: [onipot@gmail.com](mailto:onipot.contact@gmail.com)
 # MyNotes
 2017-today
 ### Status
