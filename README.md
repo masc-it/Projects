@@ -39,7 +39,7 @@ ONLINE
 # SmartCoding
 2019-today
 ### Status
-ONLINE
+ONLINE, get it on the [PlayStore](https://play.google.com/store/apps/details?id=com.mascit.smartcoding&hl=en)
 ### Tech details
 - Frontend in Java
 - Backend: CodeIgniter 3 web framework
