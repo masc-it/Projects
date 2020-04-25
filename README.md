@@ -26,10 +26,9 @@ OFFLINE, had to remove it from the store :'(
 <img src="https://github.com/onipot/Projects/blob/master/AppFipav/Screenshot_20170524-194347.png" width="250"><img src="https://github.com/onipot/Projects/blob/master/AppFipav/Screenshot_20170524-194413.png" width="250">
 
 # SmartEnv | Powered by SmartMonkeys
-2019-today
+2020-today
 ### Status
 ONLINE
-2020-today
 ### Tech details
 - Frontend in Java
 - Backend: CodeIgniter 3 web framework
@@ -37,4 +36,13 @@ ONLINE
 ### Screens
 <img src="https://github.com/onipot/Projects/blob/master/SmartEnv/intro%201.png" width="250"><img src="https://github.com/onipot/Projects/blob/master/SmartEnv/miei%20terreni%20GRIGLIA.png" width="250">
 
+# SmartCoding
+2019-today
+### Status
+ONLINE
+### Tech details
+- Frontend in Java
+- Backend: CodeIgniter 3 web framework
+### Screens
+<img src="https://github.com/onipot/Projects/blob/master/SmartCoding/first.png" width="250"><img src="https://github.com/onipot/Projects/blob/master/SmartCoding/third.png" width="250">
 # More to come!
