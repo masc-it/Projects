@@ -3,8 +3,8 @@ A list of all my most interesting projects.
 
 - For more info contact me at: [onipot@gmail.com](mailto:onipot.contact@gmail.com)
 - My PlayStore profile: [onipot](https://play.google.com/store/apps/dev?id=8923012172692890020&hl=en)
-- My Fiverr profile: (onipot on Fiverr)[https://www.fiverr.com/onipot]
-- My personal blog: (onipot's blog)[https://onipot.altervista.org/]
+- My Fiverr profile: [onipot on Fiverr](https://www.fiverr.com/onipot)
+- My personal blog: [onipot's blog](https://onipot.altervista.org/)
 
 # MyNotes
 2017-today
