@@ -6,6 +6,15 @@ A list of all my most interesting projects.
 - My Fiverr profile: [onipot on Fiverr](https://www.fiverr.com/onipot)
 - My personal blog: [onipot's blog](https://onipot.altervista.org/)
 
+# ScrapingMonkey
+2020
+### Status
+ONLINE, get it on [RapidAPI](https://rapidapi.com/onipot/api/scrapingmonkey)
+### Tech details
+- RESTful API to easily scrape web sites and filter html elements
+- Get Raw html or Filter elements by ID, class, tag, etc..
+- Responses are returned as JSON
+
 # MyNotes
 2017-today
 ### Status
