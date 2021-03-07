@@ -5,15 +5,28 @@ A list of all my most interesting projects.
 - For more info contact me [via mail](mailto:maurosciancalepore98@gmail.com)
 - My PlayStore profile: [onipot](https://play.google.com/store/apps/dev?id=8923012172692890020&hl=en)
 - My Fiverr profile: [onipot on Fiverr](https://www.fiverr.com/onipot)
-- My personal [blog] (https://onipot.altervista.org/)
+- My personal [blog](https://onipot.altervista.org/)
 
 
 # Computer Vision
 
+Some of my object detection models. Browse the complete gallery [here](https://github.com/masc-it/Projects/tree/master/AI)
+
+- Grapes
+- Pedestrians
+- Cells
+- Random objects
+
 ## Info
-- Mobilenetv2 (TPU)
+- MobilenetV2 (TPU)
 
 <img src="https://github.com/onipot/Projects/raw/master/AI/1.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/2.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/3.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/4.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/5.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/6.jpeg" width="250">
+
+# [K-Stash](https://k-stash.com)
+
+A laravel-based platform to store useful links and retrive them with ease!
+
+<img src="https://github.com/onipot/Projects/raw/master/kstash/kstash_home1.png" width="250">
 
 
 # ScrapingMonkey
