@@ -1,10 +1,19 @@
 # Projects
 A list of all my most interesting projects.
 
-- For more info contact me at: [onipot@gmail.com](mailto:onipot.contact@gmail.com)
+- My [Portfolio](https://mascit.k-stash.com)
+- For more info contact me [via mail](mailto:maurosciancalepore98@gmail.com)
 - My PlayStore profile: [onipot](https://play.google.com/store/apps/dev?id=8923012172692890020&hl=en)
 - My Fiverr profile: [onipot on Fiverr](https://www.fiverr.com/onipot)
-- My personal blog: [onipot's blog](https://onipot.altervista.org/)
+- My personal [blog] (https://onipot.altervista.org/)
+
+
+# Computer Vision
+
+## Info
+- Mobilenetv2 (TPU)
+
+<img src="https://github.com/onipot/Projects/raw/master/AI/1.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/2.jpeg" width="250">
 
 # MyNotes
 2017-today
@@ -12,11 +21,11 @@ A list of all my most interesting projects.
 ONLINE, get it on the [Play Store](https://play.google.com/store/apps/details?id=com.masc_inc.mynotes&hl=en)
 
 ### Tech details
-- Written in Java
+- Written in Java/Kotlin
 - Lightweight
 - GDrive API
 ### Screens
-<img src="https://github.com/onipot/Projects/raw/master/MyNotes/backup_fin.png" width="250"><img src="https://github.com/onipot/Projects/blob/master/MyNotes/home_fin.png" width="250">
+<img src="https://github.com/onipot/Projects/raw/master/MyNotes/home_new.jpeg" width="250"><img src="https://github.com/onipot/Projects/blob/master/MyNotes/home_fin.png" width="250">
 
 # AppFipav
 2017, first volley app to track matches.. nationwide.
