@@ -13,7 +13,8 @@ A list of all my most interesting projects.
 ## Info
 - Mobilenetv2 (TPU)
 
-<img src="https://github.com/onipot/Projects/raw/master/AI/1.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/2.jpeg" width="250">
+<img src="https://github.com/onipot/Projects/raw/master/AI/1.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/2.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/3.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/4.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/5.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/6.jpeg" width="250">
+
 
 # ScrapingMonkey
 2020
