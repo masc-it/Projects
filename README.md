@@ -26,7 +26,7 @@ Some of my object detection models. Browse the complete gallery [here](https://g
 
 A laravel-based platform to store useful links and retrive them with ease!
 
-<img src="https://github.com/onipot/Projects/raw/master/kstash/kstash_home1.png" width="250">
+<img src="https://github.com/onipot/Projects/raw/master/kstash/kstash_home1.png" width="1000">
 
 
 # ScrapingMonkey
