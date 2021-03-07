@@ -3,8 +3,8 @@ A list of all my most interesting projects.
 
 - My [Portfolio](https://mascit.k-stash.com)
 - For more info contact me [via mail](mailto:maurosciancalepore98@gmail.com)
-- My PlayStore profile: [onipot](https://play.google.com/store/apps/dev?id=8923012172692890020&hl=en)
-- My Fiverr profile: [onipot on Fiverr](https://www.fiverr.com/onipot)
+- My PlayStore profile: [mascIT](https://play.google.com/store/apps/dev?id=8923012172692890020&hl=en)
+- My Fiverr profile: [mascIT on Fiverr](https://www.fiverr.com/onipot)
 - My personal [blog](https://onipot.altervista.org/)
 
 
