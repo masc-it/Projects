@@ -15,6 +15,15 @@ A list of all my most interesting projects.
 
 <img src="https://github.com/onipot/Projects/raw/master/AI/1.jpeg" width="250"><img src="https://github.com/onipot/Projects/raw/master/AI/2.jpeg" width="250">
 
+# ScrapingMonkey
+2020
+### Status
+ONLINE, get it on [RapidAPI](https://rapidapi.com/onipot/api/scrapingmonkey)
+### Tech details
+- RESTful API to easily scrape web sites and filter html elements
+- Get Raw html or Filter elements by ID, class, tag, etc..
+- Responses are returned as JSON
+
 # MyNotes
 2017-today
 ### Status
